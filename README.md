@@ -8,7 +8,7 @@ The idea is that the researcher can perform database like `queries` to get infor
 -   `memorySearch`: search for a given value.
 -   `memoryRead`: read from a memory address.
 -   `memoryWrite`: write to a memory address.
--   `memorySearch_pointer`: search any pointers starting from a given address.
+-   `memorySearchPointer`: search any pointers starting from a given address.
 
 ## Usage
 
